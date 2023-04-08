@@ -3,11 +3,12 @@ package day2;
 public class day2Demo {
 	
 	
-	public static void main (String args []) {
+		
+		public void getInfo() {
+			System.out.println("Pushing code...");
+			System.out.println("Pushing 2code...");
+		}
 		
 		
 		
-		System.out.println("day 2 practice");
 	}
-
-}
