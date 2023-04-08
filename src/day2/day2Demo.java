@@ -4,12 +4,14 @@ public class day2Demo {
 	
 	
 		
-		public void getInfo() {
-			System.out.println("Pushing code...");
-			System.out.println("Pushing 2code...");
-			System.out.println("pushing 3 code");
-		}
+		
+public void getResult() {
+			
+			
+			System.out.println("first try");
+			System.out.println("second try");
 		
 		
 		
-	}
+}
+}
